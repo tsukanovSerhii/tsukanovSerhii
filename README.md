@@ -1,15 +1,23 @@
-# Hi there, I'm Serhii Tsukanov 👋
+<div align="center">
 
-**Frontend Developer** — захоплений створенням інтерфейсів
+# Hey, I'm Serhii Tsukanov 👋
+
+**Frontend Developer** — passionate about crafting beautiful interfaces
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🖥️ Frontend розробник, що будує зручні та гарні UI
-- 💡 Люблю перетворювати ідеї на живі, інтерактивні інтерфейси
-- 🎮 Іноді роблю браузерні ігри (TypeScript + canvas)
-- 📚 Постійно вивчаю нові інструменти та підходи
+- 🖥️ Frontend developer who loves building clean and interactive UIs
+- 💡 I enjoy turning ideas into real, polished web experiences
+- 🎮 Occasionally build browser games with TypeScript + canvas
+- 📚 Always learning — currently diving deeper into modern JS/TS ecosystem
 
 ---
 
@@ -34,10 +42,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeslomBOOM&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeslomBOOM&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsukanovSerhii&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukanovSerhii&layout=compact&theme=default&hide_border=true" height="155" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tsukanovSerhii&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="155" />
+</div>
 
 ---
 
@@ -45,21 +57,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🧛 vampireJsGame](https://github.com/NeslomBOOM/vampireJsGame) | Браузерна гра у стилі Vampire Survivors | TypeScript |
-| [🪞 Mirro](https://github.com/NeslomBOOM/Mirro) | Web-застосунок | JavaScript |
-| [💌 Valentinka](https://github.com/NeslomBOOM/Valentinka) | Творчий проєкт | JavaScript |
-| [📅 Schedule](https://github.com/NeslomBOOM/Schedule) | Додаток для розкладу | C# |
+| [🧛 vampireJsGame](https://github.com/tsukanovSerhii/vampireJsGame) | Browser game inspired by Vampire Survivors | TypeScript |
+| [🪞 Mirro](https://github.com/tsukanovSerhii/Mirro) | Web application | JavaScript |
+| [💌 Valentinka](https://github.com/tsukanovSerhii/Valentinka) | Creative web project | JavaScript |
+| [📅 Schedule](https://github.com/tsukanovSerhii/Schedule) | Schedule management app | C# |
 
 ---
 
-## 📬 Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NeslomBOOM&color=grey&style=flat-square&label=profile+views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tsukanovSerhii&color=grey&style=flat-square&label=profile+views" />
+</div>
