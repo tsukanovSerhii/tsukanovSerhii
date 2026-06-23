@@ -9,7 +9,7 @@ Passionate about crafting clean, interactive, and modern web experiences.
 <br />
 
 <div align="center">
-  <a href="https://t.me/@Mr_Genus">
+  <a href="https://t.me/Mr_Genus">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:mr.tsukanov.serezha@ukr.net">
